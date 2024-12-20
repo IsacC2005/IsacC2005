@@ -1,6 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&pause=1000&color=1D18F7&width=435&lines=Hola!+Soy+Ezequiel+Ardiles%2C+desarrollador+backend.+%C2%A1Explora+mis+proyectos!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=09F78D&multiline=true&width=1000&lines=Hola!+Soy+Ezequiel+Ardiles+desarrollador+backend" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=A+passionate+frontend+and+backend+developer+from+Bangladesh" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=740AD4&multiline=true&width=1000&lines=Bienvenido%2Fa.+Aqu%C3%AD+encontrar%C3%A1s+mis+creaciones+como+desarrollador+backend." alt="Typing SVG" /></a>
 
 <img align="right" top="500" height="270" width="400" alt="GIF" src="./CatCode.gif">
   
