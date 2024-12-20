@@ -9,9 +9,8 @@
   - Looking for an idea for my next project.
     <br>
 
-## 🚀💻 Technologies & Tools
-
-### <u> Languages: </u>
+   ### 🚀💻 Technologies & Tools
+   ###  Languages:
 <br>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
