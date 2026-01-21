@@ -54,6 +54,16 @@ En el Frontend, utilizo Vue.js y tengo experiencia específica en el desarrollo 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 &nbsp;
 
+### Otros
+<br>
+![Pinia](https://img.shields.io/badge/pinia-%23ffe66d.svg?style=for-the-badge&logo=vue.js&logoColor=black)
+&nbsp;
+![Pest](https://img.shields.io/badge/Pest-%234195cf.svg?style=for-the-badge&logo=pest&logoColor=white)
+&nbsp;
+![Lucide](https://img.shields.io/badge/lucide-%23f87171.svg?style=for-the-badge&logo=lucide&logoColor=white)
+&nbsp;
+![Octane](https://img.shields.io/badge/octane-%23ff2d20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+&nbsp;
 <br>
     
   - Actualmente explorando nuevas ideas para mi próximo proyecto.
