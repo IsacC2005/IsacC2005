@@ -54,7 +54,7 @@ En el Frontend, utilizo Vue.js y tengo experiencia específica en el desarrollo 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 &nbsp;
 
-### Otros
+#### ✔️Otros
 <br>
 
 ![Pinia](https://img.shields.io/badge/pinia-%23ffe66d.svg?style=for-the-badge&logo=vue.js&logoColor=black)
@@ -79,7 +79,7 @@ En el Frontend, utilizo Vue.js y tengo experiencia específica en el desarrollo 
 
 <br>
 
-### 🚀 Aprendiendo próximamente (IA & RAG)
+#### 🚀 Aprendiendo
 <br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
