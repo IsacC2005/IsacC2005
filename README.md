@@ -44,6 +44,7 @@ En el Frontend, utilizo Vue.js y tengo experiencia específica en el desarrollo 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 &nbsp;
 ![Filament](https://img.shields.io/badge/filamentphp-%23FFA434.svg?style=for-the-badge&logo=laravel&logoColor=white)
+&nbsp;
 
 #### 🗃️ Bases de Datos
 <br>
