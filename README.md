@@ -56,6 +56,7 @@ En el Frontend, utilizo Vue.js y tengo experiencia específica en el desarrollo 
 
 ### Otros
 <br>
+
 ![Pinia](https://img.shields.io/badge/pinia-%23ffe66d.svg?style=for-the-badge&logo=vue.js&logoColor=black)
 &nbsp;
 ![Pest](https://img.shields.io/badge/Pest-%234195cf.svg?style=for-the-badge&logo=pest&logoColor=white)
