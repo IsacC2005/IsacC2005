@@ -41,6 +41,9 @@ En el Frontend, utilizo Vue.js y tengo experiencia específica en el desarrollo 
 &nbsp;
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E2?style=for-the-badge&logo=inertia&logoColor=white)
 &nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+&nbsp;
+![Filament](https://img.shields.io/badge/filamentphp-%23FFA434.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 #### 🗃️ Bases de Datos
 <br>
