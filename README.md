@@ -65,6 +65,13 @@ En el Frontend, utilizo Vue.js y tengo experiencia específica en el desarrollo 
 &nbsp;
 ![Octane](https://img.shields.io/badge/octane-%23ff2d20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 &nbsp;
+![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
+&nbsp;
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
+![Composer](https://img.shields.io/badge/composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 <br>
     
   - Actualmente explorando nuevas ideas para mi próximo proyecto.
